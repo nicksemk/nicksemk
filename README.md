@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nícollas!
 
-<!--
-**nicksemk/nicksemk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNP**  
+💻 Formado em **Técnico em Informática** pelo **CEEP – Professora Lourdinha Guerra**  
+🌎 Brasileiro, apaixonado por **desenvolvimento web**
 
-Here are some ideas to get you started:
+Atualmente estudando e praticando:  
+➡️ **HTML | CSS | JavaScript | React | Next.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sempre buscando melhorar minhas habilidades, aprender mais sobre **boas práticas**, **Git/GitHub** e tudo que possa me ajudar a evoluir como desenvolvedor. 🚀  
+
+---
+
+📊 **Minhas estatísticas no GitHub**
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicksemk&show_icons=true&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksemk&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Vamos nos conectar!**  
+[LinkedIn](#) | [Portfólio](#) | [email](#pietronicollas34conta2@gmail.com)
